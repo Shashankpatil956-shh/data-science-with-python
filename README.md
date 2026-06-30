@@ -1,2 +1,2 @@
 # data-science-with-python
-this is my first git repository
+working as a maid skill to make it better 
